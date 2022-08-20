@@ -2328,6 +2328,7 @@
       "ApiAssignment.Logic/1.0.0": {
         "dependencies": {
           "ApiAssignment.Data": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17",
           "RestSharp": "108.0.1"
         },
         "runtime": {
